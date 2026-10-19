@@ -40,9 +40,9 @@ from the public [TidyTuesday Spotify songs dataset](https://github.com/rfordatas
 
 ## Background
 
-This started as the first group assignment of the MSc in Business Data Science at Aalborg
-University (2026), by Group 7: Andrei Busuioc, Brett Taylor Ulsh, Iva Omrcen,
-Junayed Ahmad Sojib and Morten Lybye Verwohlt.
+Assignment MSc in Business Data Science at Aalborg
+University (2026)
+
 
 This repository is a cleaned-up and extended version by Andrei Busuioc. Compared with the
 submitted assignment, it fixes a bug where the release-year check ran on the wrong definition of
